@@ -22,6 +22,8 @@ The goal of this project is to create a real-time, location-aware weather dashbo
 Demonstrate the power of real-time data analytics
 Build a visually appealing and responsive dashboard
 Practice API integration and data modeling
-Strengthen skills in Power BI, UI/UX design (Figma), and data interpretation
+Strengthen skills in Power BI, UI/UX design (Figma), and data interpretation.
+
+https://github.com/darkrihi02/Weatherupdate-dashboard/blob/main/weather.png
 
 Taken help from chatgpt to write this all content :)
