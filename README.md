@@ -26,4 +26,6 @@ Strengthen skills in Power BI, UI/UX design (Figma), and data interpretation.
 
 https://github.com/darkrihi02/Weatherupdate-dashboard/blob/main/weather.png
 
+(Dashboard View)
+
 Taken help from chatgpt to write this all content :)
